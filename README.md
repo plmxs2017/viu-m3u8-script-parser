@@ -11,4 +11,4 @@ INSTRUCITONS:
 - I've already made the bookmarklet version with icon. So you just need to import it into to your chrome
 - Just play first the video and click the script and you'll get the information
 
-![image](https://i.imgur.com/ifsBeww.png)
+![image](https://i.imgur.com/sOjFL9g.png)
